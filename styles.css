@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: border-box;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+html {
+    height: 300vh;
+
+}
+
+.logo {
+    position: relative;
+    top: -51.875rem;
+    right: -3.3rem;
+    display: flex;
+}
+
+.mainbg {
+    overflow: hidden;
+    width: 100%;
+}
+
+
+.top-panel-ops p {
+    margin-left: 1rem;
+    display: inline;
+    color: white;
+    font-weight: 700;
+    text-shadow: 1rem;
+}
+
+.top-panel-ops {
+    width: 70%;
+}
+
+.top-panel-right {
+    margin-left: 3rem;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.black {
+    position: relative;
+    top: -20rem;
+    /* border: 2px red solid; */
+    background-color: black;
+    width: 94.9rem;
+    height: 400rem;
+}
+
+.ftxt {
+    font-size: 6rem;
+    position: relative;
+    bottom: -27.125rem;
+    left: -6rem;
+    color: white;
+    font-weight: 600;
+}
+
+.maidplay {
+    display: flex;
+    position: relative;
+    top: 27rem;
+    left: -5.5rem;
+    border: 1px white solid;
+    height: 2.5rem;
+    width: 4.5rem;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.info {
+    display: flex;
+    position: relative;
+    top: 24.5rem;
+    left: 1rem;
+    border: 1px white solid;
+    height: 2.5rem;
+    width: 8rem;
+    background-color: grey;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.above-maid {
+    display: flex;
+    position: relative;
+    top: 13rem;
+    left: -35rem;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.plus {
+    position: relative;
+    left: 83rem;
+    bottom: -28rem;
+    color: white;
+    font-size: 1.7rem;
+}
+
+.again {
+    position: relative;
+    top: -425rem;
+    left: 5rem;
+    color: white;
+    font-weight: 700;
+    padding: 10px;
+
+}
+
+.tc1{
+    position: relative;
+    left: 0rem;
+    top: -425rem;
+}
+
+.tc2{
+    position: relative;
+    left: 17rem;
+    top: -434.5rem;
+}
+
+.tc3{
+    position: relative;
+    left: 34rem;
+    top: -444rem;
+}
+
+.tc4{
+    position: relative;
+    left: 51rem;
+    top: -453.5rem;
+}
+
+.tc5{
+    position: relative;
+    left: 68rem;
+    top: -463rem;
+}
