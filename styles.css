@@ -150,8 +150,8 @@ html {
 
 .num1 {
     position: relative;
-    left: 0rem;
-    top: 0rem;
+    left: 3rem;
+    top: -455rem;
 }
 
 .num2 {
@@ -218,8 +218,8 @@ html {
 }
 
 .t10{
-    color: red;
+    color: white;
     position: relative;
-    left: 0rem;
-    top: 0rem;
+    left: 5rem;
+    top: -455rem;
 }
