@@ -117,67 +117,109 @@ html {
 
 }
 
-.tc1{
+.tc1 {
     position: relative;
     left: 0rem;
     top: -425rem;
 }
 
-.tc2{
+.tc2 {
     position: relative;
     left: 17rem;
     top: -434.5rem;
 }
 
-.tc3{
+.tc3 {
     position: relative;
     left: 34rem;
     top: -444rem;
 }
 
-.tc4{
+.tc4 {
     position: relative;
     left: 51rem;
     top: -453.5rem;
 }
 
-.tc5{
+.tc5 {
     position: relative;
     left: 68rem;
     top: -463rem;
 }
 
 
-.num1{
-
+.num1 {
+    position: relative;
+    left: 0rem;
+    top: 0rem;
 }
-.num1{
 
-}
-.num1{
-
-}
-.num1{
-
-}
-.num1{
+.num1 {
+    position: relative;
+    left: 0rem;
+    top: 0rem;
 
 }
 
-
-.poster1{
-
-}
-.poster1{
-
-}
-.poster1{
+.num1 {
+    position: relative;
+    left: 0rem;
+    top: 0rem;
 
 }
-.poster1{
+
+.num1 {
+    position: relative;
+    left: 0rem;
+    top: 0rem;
 
 }
-.poster1{
-    
+
+.num1 {
+    position: relative;
+    left: 0rem;
+    top: 0rem;
+
 }
 
+
+.poster1 {
+    position: relative;
+    left: 0rem;
+    top: 0rem;
+
+}
+
+.poster1 {
+    position: relative;
+    left: 0rem;
+    top: 0rem;
+
+}
+
+.poster1 {
+    position: relative;
+    left: 0rem;
+    top: 0rem;
+
+}
+
+.poster1 {
+    position: relative;
+    left: 0rem;
+    top: 0rem;
+
+}
+
+.poster1 {
+    position: relative;
+    left: 0rem;
+    top: 0rem;
+}
+
+.t10{
+    color: red;
+    position: relative;
+    left: 0rem;
+    top: 0rem;
+}
